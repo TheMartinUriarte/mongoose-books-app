@@ -11,6 +11,12 @@ var books_list = [
   releaseDate: "July 11, 1960"
   },
   {
+  title: "How to WDI 33 with Uncertainity",
+  author: "Martin Uriarte",
+  image: "https://s3-us-west-2.amazonaws.com/sandboxapi/to_kill_a_mockingbird.jpg",
+  releaseDate: "October 24, 2016"
+  },
+  {
   title: "The Great Gatsby",
   author: "F Scott Fitzgerald",
   image: "https://s3-us-west-2.amazonaws.com/sandboxapi/great_gatsby.jpg",
